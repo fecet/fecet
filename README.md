@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## [In solidarity with Library Genesis and Sci-Hub](https://custodians.online/index.html)
+
+R.I.P. Bram Moolenaar
